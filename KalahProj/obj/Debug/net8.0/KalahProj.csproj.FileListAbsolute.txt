@@ -1,0 +1,14 @@
+C:\Users\benja\source\repos\KalahProj\obj\Debug\net8.0\KalahProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\source\repos\KalahProj\obj\Debug\net8.0\KalahProj.AssemblyInfoInputs.cache
+C:\Users\benja\source\repos\KalahProj\obj\Debug\net8.0\KalahProj.AssemblyInfo.cs
+C:\Users\benja\source\repos\KalahProj\obj\Debug\net8.0\KalahProj.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\KalahProj\bin\Debug\net8.0\KalahProj.exe
+C:\Users\benja\source\repos\KalahProj\bin\Debug\net8.0\KalahProj.deps.json
+C:\Users\benja\source\repos\KalahProj\bin\Debug\net8.0\KalahProj.runtimeconfig.json
+C:\Users\benja\source\repos\KalahProj\bin\Debug\net8.0\KalahProj.dll
+C:\Users\benja\source\repos\KalahProj\bin\Debug\net8.0\KalahProj.pdb
+C:\Users\benja\source\repos\KalahProj\obj\Debug\net8.0\KalahProj.dll
+C:\Users\benja\source\repos\KalahProj\obj\Debug\net8.0\refint\KalahProj.dll
+C:\Users\benja\source\repos\KalahProj\obj\Debug\net8.0\KalahProj.pdb
+C:\Users\benja\source\repos\KalahProj\obj\Debug\net8.0\KalahProj.genruntimeconfig.cache
+C:\Users\benja\source\repos\KalahProj\obj\Debug\net8.0\ref\KalahProj.dll
